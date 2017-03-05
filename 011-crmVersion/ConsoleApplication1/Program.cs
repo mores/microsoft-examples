@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 /* 
  * First do this:
- * CrmSvcUtil.exe /username:kingjulian /password:julianisking /url:https://julian.madagascar.com/XRMServices/2011/Organization.svc /out:CrmProxy.cs /serviceContextName:Context
- * Object SystemUser will be in generated early bind classes
+ * 010-nuget
  */
 
 namespace ConsoleApplication1
